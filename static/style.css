@@ -45,7 +45,7 @@ margin-top: 1rem;
     background-color: var(--card-bg);
     color: black;
     border-radius: 0.5rem;
-    box-shadow:inset, rgb(230, 25, 148);
+    box-shadow: 0 2px 4px rgb(227, 83, 193);
 }
 
 .card__title {
